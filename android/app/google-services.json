@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237515682478",
+    "project_id": "projectone-92ee0",
+    "storage_bucket": "projectone-92ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237515682478:android:cc73539d3fa6f0d3c0b33f",
+        "android_client_info": {
+          "package_name": "saher.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCoMvi8od3SDZzZJsLUIlkWIS79l5bKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
